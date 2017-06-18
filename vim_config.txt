@@ -1,0 +1,17 @@
+config added to .vimrc
+
+execute pathogen#infect()
+syntax on
+filetype plugin indent on
+call pathogen#helptags()
+
+
+folders under .vim
+autoload
+	pathogen.vim
+bundle # use git clone to add below folders. 
+	supertab
+	jedi-vim
+	delimitMate
+	syntastic
+	
