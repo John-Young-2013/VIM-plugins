@@ -15,3 +15,4 @@ bundle # use git clone to add below folders.
 	delimitMate
 	syntastic
 	
+# may need install jedi / jedi3
